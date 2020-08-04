@@ -1,4 +1,4 @@
-# -Helen-formula-calculator
+# Helen-formula-calculator
  海伦公式计算器 （三角形三边长求三角形面积）
  
  Helen formula calculator
